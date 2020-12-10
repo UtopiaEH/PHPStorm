@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="php" type="PHP" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping ext="phar" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
