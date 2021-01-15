@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="*.graphql.ts" type="GraphQL" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <mapping pattern="*.graphql.ts" type="GraphQL" />
+      <mapping ext="phar" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
