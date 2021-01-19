@@ -361,6 +361,7 @@
             <plugin>
               <option name="myPluginId" value="com.dmarcotte.handlebars" />
               <option name="myPluginName" value="Handlebars/Mustache" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -378,6 +379,7 @@
             <plugin>
               <option name="myPluginId" value="com.dmarcotte.handlebars" />
               <option name="myPluginName" value="Handlebars/Mustache" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -772,6 +774,7 @@
             <plugin>
               <option name="myPluginId" value="com.dmarcotte.handlebars" />
               <option name="myPluginName" value="Handlebars/Mustache" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
