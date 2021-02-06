@@ -10,12 +10,18 @@
   <action id="CaptureMemorySnapShot">
     <keyboard-shortcut first-keystroke="shift ctrl alt m" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 3" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
