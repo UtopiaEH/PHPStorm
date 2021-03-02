@@ -1,0 +1,11 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+</keymap>
