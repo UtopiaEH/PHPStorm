@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="*.graphql.ts" type="GraphQL" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
-      <removed_mapping ext="php" type="PHP" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
