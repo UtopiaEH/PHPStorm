@@ -10,7 +10,7 @@
        <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
      <mapping pattern="*.ts" type="Flow" />
-    <mapping pattern="*.tsx type="Flow" />
+    <mapping pattern="*.tsx" type="Flow" />
     </extensionMap>
   </component>
 </application>
