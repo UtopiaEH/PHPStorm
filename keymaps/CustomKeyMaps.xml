@@ -1,5 +1,5 @@
 
-<keymap version="1" name="CustomKeyMaps" parent="Eclipse">
+<keymap version="1" name="CustomKeyMaps" parent="GNOME">
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
