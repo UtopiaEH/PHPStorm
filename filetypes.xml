@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="tsx" type="Flow" />
-      <mapping ext="ts" type="Flow" />
-      <removed_mapping ext="php" type="PHP" />
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".*" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <removed_mapping ext="ts" type="TypeScript" />
-      <removed_mapping ext="tsx" type="TypeScript JSX" />
+      <mapping ext="ts" type="TypeScript" />
+      <mapping ext="tsx" type="TypeScript JSX" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="*.graphql.ts" type="GraphQL" />
       <mapping ext="log" type="ANSI Aware" />
     </extensionMap>
