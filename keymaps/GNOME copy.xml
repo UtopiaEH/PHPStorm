@@ -35,5 +35,4 @@
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="UsageView.ShowRecentFindUsages" />
-</keymap> 
-	
+</keymap>
