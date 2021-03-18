@@ -5,7 +5,7 @@
       <mapping pattern=".*" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
-      <mapping ext="php" />
+      <mapping pattern=".php" type="PHP" />
     </extensionMap>
   </component>
 </application>
