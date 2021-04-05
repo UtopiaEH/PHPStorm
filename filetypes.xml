@@ -7,6 +7,7 @@
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
