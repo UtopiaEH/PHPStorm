@@ -7,15 +7,15 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="shift e" />
-  </action>
-  <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="shift q" />
-  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
   <action id="GotoTest" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
@@ -44,13 +44,13 @@
   <action id="ServiceView.ShowServices" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
-    <keyboard-shortcut first-keystroke="shift 2" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
-    <keyboard-shortcut first-keystroke="shift 1" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
 </keymap>
