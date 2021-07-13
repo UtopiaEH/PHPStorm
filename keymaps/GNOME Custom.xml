@@ -1,4 +1,7 @@
 <keymap version="1" name="GNOME Custom" parent="Default for GNOME">
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="alt r"/>
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
